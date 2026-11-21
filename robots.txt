@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://76fredz-coder.github.io/infinite-design-website/sitemap.xml
+
